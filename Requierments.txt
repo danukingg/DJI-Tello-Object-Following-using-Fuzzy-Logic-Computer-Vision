@@ -1,0 +1,5 @@
+djitellopy
+opencv-python
+numpy
+scikit-fuzzy
+matplotlib
