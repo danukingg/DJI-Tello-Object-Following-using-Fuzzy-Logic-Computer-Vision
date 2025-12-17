@@ -4,6 +4,7 @@ This project implements an autonomous object-tracking system for the **DJI Tello
 
 ## 🎥 Project Overview
 The system captures the video feed from the Tello drone, processes it to mask a specific color, and calculates the centroid of the object. A Fuzzy Logic Controller then adjusts the drone's speed and orientation to keep the object centered in the frame at a specific distance.
+![Demo Video](Demo/Drone_Camera_Video.mp4)
 
 ## 📂 File Structure & Description
 
